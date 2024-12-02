@@ -31,7 +31,7 @@ function Header() {
                         </div>
                         <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                             <div class="flex shrink-0 items-center">
-                                <img class="h-8 w-auto" src={logo} alt="logo" />
+                                <img class="h-6 w-auto" src={logo} alt="logo" />
                             </div>
                             <div class="hidden sm:ml-6 sm:block">
                                 <div class="flex space-x-4">
