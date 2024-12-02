@@ -1,5 +1,5 @@
 import logo from '../assets/microsoft.png';
-// a
+
 function Header() {
     return (
         <>
